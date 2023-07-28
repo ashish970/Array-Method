@@ -2,7 +2,7 @@
 
 
 //concat && join method
- let a1 = [1,2,3,4,5,6];
+ let a1 = [1,2,3,4,5,6,7];
  let a2 = [3,4,5];
  let a3 = a1.concat(a2)
  console.log(a3)
